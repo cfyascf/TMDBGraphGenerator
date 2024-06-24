@@ -1,0 +1,3 @@
+C:/Users/Yasmim da Cunha/Documents/Codes/C/MovieGraph/cmake-build-debug/CMakeFiles/MovieGraph_C.dir
+C:/Users/Yasmim da Cunha/Documents/Codes/C/MovieGraph/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yasmim da Cunha/Documents/Codes/C/MovieGraph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
